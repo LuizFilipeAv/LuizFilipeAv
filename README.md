@@ -1,27 +1,26 @@
 <div align="center">
 
-# Luiz Filipe Ávila
+# Luiz Filipe Avila
 
 <br>
 
-**Estudante de Ciência da Computação | Foco em Análise de Dados e BI**
+**Desenvolvedor Frontend Junior | React, Next.js & TypeScript**
 
-Sou graduando no 5º semestre e trago 3 anos de vivência no setor administrativo, unindo visão de negócio com tecnologia. Tenho um perfil altamente analítico: busco entender a fundo a mecânica e a lógica das coisas — o "como" e o "porquê" por trás de cada resultado para embasar a tomada de decisão.
-
-<br>
-
-### 🧱 Linguagens e ferramentas:
+Profissional de tecnologia focado no ecossistema JavaScript/TypeScript, especializado na construção de aplicações web modernas, performáticas e escaláveis. Com uma sólida bagagem no setor administrativo, combino visão de negócio com engenharia de software para transformar problemas complexos em interfaces limpas, modulares e focadas na experiência do usuário. Possuo um perfil altamente analítico, sempre buscando entender a fundo a arquitetura, as engrenagens e a lógica por trás de cada linha de código.
 
 <br>
 
-<!-- Ícones das suas ferramentas -->
+### 🛠️ Tecnologias e Ferramentas
+
+<br>
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,react,django,js,ts&perline=10" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,postgres&perline=8" alt="Minha Stack Técnica" />
 </a>
 
 <br><br>
 
-### Algumas estatísticas:
+### 📈 Estatísticas de Desenvolvimento
 
 <br>
 
