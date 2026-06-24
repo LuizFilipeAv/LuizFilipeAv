@@ -10,17 +10,17 @@ Profissional de tecnologia focado no ecossistema JavaScript/TypeScript, especial
 
 <br>
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,postgres&perline=8" alt="Minha Stack Técnica" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,oracle&perline=8" alt="Minha Stack Técnica" />
 </a>
 
 <br><br>
 
-### 📈 Estatísticas de Desenvolvimento
+### Estatísticas de Desenvolvimento
 
 <br>
 
