@@ -1,22 +1,14 @@
 <div align="center">
 
-# Luiz Filipe Avila
+# Desenvolvedor web!!
 
 <br>
 
-**Desenvolvedor Frontend Junior | React, Next.js & TypeScript**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-avila/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-avila/)
 
 <br>
 
-Profissional de tecnologia focado no ecossistema JavaScript/TypeScript, especializado na construção de aplicações web modernas, performáticas e escaláveis. Com uma sólida bagagem no setor administrativo, combino visão de negócio com engenharia de software para transformar problemas complexos em interfaces limpas, modulares e focadas na experiência do usuário. Possuo um perfil altamente analítico, sempre buscando entender a fundo a arquitetura, as engrenagens e a lógica por trás de cada linha de código.
-
-<br>
-
-### Tecnologias e Ferramentas
-
-<br>
+### Linguagens e ferramentas:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,mysql&perline=8" alt="Minha Stack Técnica" />
@@ -24,7 +16,7 @@ Profissional de tecnologia focado no ecossistema JavaScript/TypeScript, especial
 
 <br><br>
 
-### Estatísticas de Desenvolvimento
+### Algumas estatísticas:
 
 <br>
 
