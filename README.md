@@ -4,7 +4,7 @@
 
 ### Desenvolvedor de Software
 
-**Aplicações web · APIs REST · Análise de dados**
+**Ecossistema JavaScript · Aplicações web · APIs REST**
 
 <a href="https://www.linkedin.com/in/luiz-filipe-avila/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" />
@@ -19,9 +19,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em aplicações web. Minha stack reúne **React e Next.js** no front-end, **Python e Django** no back-end, além de **SQL e APIs REST**.
+Sou desenvolvedor de software com foco no **ecossistema JavaScript e TypeScript**. Minha stack reúne **React e Next.js** no front-end, **Node.js e NestJS** no back-end, além de **PostgreSQL e APIs REST**.
 
-Meus projetos exploram tanto a construção de interfaces e sistemas de gestão quanto o uso de Python para transformar dados em indicadores e visualizações. Aqui compartilho aplicações, análises e estudos de desenvolvimento.
+Meus projetos exploram a construção de interfaces e sistemas de gestão, conectando front-end, back-end e banco de dados. Aqui compartilho aplicações e estudos de desenvolvimento web.
 
 ## Tecnologias
 
@@ -35,13 +35,11 @@ Meus projetos exploram tanto a construção de interfaces e sistemas de gestão 
 
 **Back-end e banco de dados**
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql&theme=dark" alt="Python, Django e MySQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres&theme=dark" alt="Node.js, NestJS e PostgreSQL" />
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/APIs_REST-1E293B?style=flat-square" alt="APIs REST" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 </div>
 
@@ -50,8 +48,6 @@ Meus projetos exploram tanto a construção de interfaces e sistemas de gestão 
 | Projeto | O que você encontra | Tecnologias |
 | :--- | :--- | :--- |
 | **[DataSafe](https://github.com/LuizFilipeAv/DataSafe)** | Sistema de gestão de EPIs com cadastro de funcionários, controle de estoque, registro de entregas e dashboard. | Next.js · TypeScript · React · Tailwind CSS |
-| **[Análise de Vendas](https://github.com/LuizFilipeAv/Analise-de-Vendas)** | Análise de arquivos CSV, cálculo de indicadores, filtragem de dados e visualizações de vendas. | Python · Pandas · Jupyter |
-| **[Estudos de React](https://github.com/LuizFilipeAv/estudo-react)** | Repositório de estudos de desenvolvimento com React. | JavaScript · React |
 
 <p align="center">
   <a href="https://data-safe-tawny.vercel.app/">Ver demonstração do DataSafe ↗</a>
